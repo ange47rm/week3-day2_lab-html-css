@@ -1,0 +1,17 @@
+header{
+    background-color: crimson;
+}
+
+header > nav > ul{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+header > nav > ul > li{
+    margin-right: 24px;
+}
+
+footer {
+    background-color: crimson;
+}
